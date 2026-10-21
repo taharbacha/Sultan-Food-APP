@@ -1,0 +1,7 @@
+[
+ {"photo":"babezzouar/p13","kicker":"Offre spéciale","title":"2 pizzas achetées","text":"La Margherita, c’est pour nous","sticker_big":"OFFERTE","sticker_small":"Margherita"},
+ {"photo":"babezzouar/p20","kicker":"Le plat complet","title":"Fried chicken","text":"Un vrai plat qui cale bien","price":"900","sub":"Riz basmati · Frites · Salade"},
+ {"photo":"babezzouar/p03","kicker":"On livre chez vous","title":"Livraison","chips":["Bab Ezzouar","Dar El Beida","Bordj El Kiffan","Rouiba"],"sub":"En 30 min à 1h selon l'adresse","fy":0.6},
+ {"photo":"babezzouar/p19","title":"Pizza\nou tacos ?","text":"Votez et dites-nous ce soir","footer":false,"zoom":1.9,"fx":0.3,"fy":0.4},
+ {"photo":"babezzouar/p19","kicker":"Sortie du four","title":"Pizzas","chips":["Sultan","Quattro formaggi","Pepperoni"],"price":"450","price_prefix":"dès"}
+]

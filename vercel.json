@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/story.mjs": { "includeFiles": "{fonts,photos,assets,lib}/**", "memory": 1024, "maxDuration": 30 }
+  }
+}
