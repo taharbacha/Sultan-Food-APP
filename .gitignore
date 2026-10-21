@@ -1,2 +1,4 @@
 node_modules
 out_*.jpg
+n8n/*
+!n8n/content-agent.json
