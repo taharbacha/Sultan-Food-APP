@@ -1,5 +1,14 @@
 {
   "functions": {
-    "api/story.mjs": { "includeFiles": "{fonts,photos,assets,lib}/**", "memory": 1024, "maxDuration": 30 }
+    "api/story.mjs": {
+      "includeFiles": "{fonts,photos,assets,lib}/**",
+      "memory": 1024,
+      "maxDuration": 30
+    },
+    "api/sheet.mjs": {
+      "includeFiles": "{fonts,photos}/**",
+      "memory": 1024,
+      "maxDuration": 60
+    }
   }
 }
